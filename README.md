@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm ADITYA PALIWAL</h1>
-<h3 align="center">I'm interested in solving real-world problems with the use of technology. I like working in teams which give me exposure to the practical aspects of work. Actively looking for internship opportunities that would help improve my skills and expand my network.</h3>
+<h3 align="corner">About me
+  I'm interested in solving real-world problems with the use of technology.
+  I like working in teams which give me exposure to the practical aspects of work.
+  Actively looking for internship opportunities that would help improve my skills and expand my network.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-paliwal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-paliwal0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-paliwal0" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-paliwal0" height="30" width="40" /></a>
 <a href="https://instagram.com/raahgir_ki_photogiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raahgir_ki_photogiri" height="30" width="40" /></a>
 </p>
 
