@@ -7,7 +7,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  I'm driven by solving real-world challenges using technology. My passion for teamwork allows me to gain practical insights and continuously improve my skills. Currently, I'm seeking internship opportunities to further my growth and expand my professional network.
+  I'm passionate about leveraging technology to solve real-world problems. My strong interest in machine learning and AI drives me to explore new technologies and methodologies. I thrive in team environments where I can gain hands-on experience and practical insights. Currently, I’m looking for internship opportunities to further enhance my skills and expand my professional network.
 </p>
 
 <h3 align="center">Connect with Me:</h3>
@@ -20,8 +20,17 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Skills and Technologies:</h3>
 <p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-%E2%9C%94-blue?style=flat-square&logo=python" alt="Python" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Django-%E2%9C%94-green?style=flat-square&logo=django" alt="Django" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-%E2%9C%94-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  </a>
   <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Android-%F0%9F%93%8D-blue?style=flat-square&logo=android" alt="Android" />
   </a>
@@ -46,10 +55,12 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Photoshop-%E2%9C%94-lightgrey?style=flat-square&logo=adobephotoshop" alt="Photoshop" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Python-%E2%9C%94-blue?style=flat-square&logo=python" alt="Python" />
-  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TensorFlow-%E2%9C%94-orange?style=flat-square&logo=tensorflow" alt="TensorFlow" />
   </a>
+</p>
+
+<h3 align="center">Machine Learning & AI Expertise:</h3>
+<p align="center">
+  I specialize in developing and deploying machine learning models using TensorFlow and other frameworks. My experience includes building predictive models, natural language processing, and leveraging AI for real-world applications.
 </p>
